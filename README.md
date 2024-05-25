@@ -1,4 +1,4 @@
-#MedTourEasy-Internship
+# MedTourEasy-Internship
 # Left-Handedness and Age of Death Analysis
 
 ## Overview
